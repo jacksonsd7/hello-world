@@ -1,2 +1,8 @@
 # hello-world
-Learning how to create a new repository with the hello-world guide
+
+hello again from sydney's room on earth,
+
+it is true that coffee are the best friends of these creatures. 
+they enjoy food & blaming each other for their problems.
+
+until next time.
